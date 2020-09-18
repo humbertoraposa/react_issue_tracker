@@ -1,0 +1,23 @@
+.issue-card {
+    padding:0.2em 1em;
+    text-align: left;
+    display: inline-fl/ex;
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    background: aliceblue;
+    max-height: 10em;
+    overflow-y:scroll;
+    margin-bottom: 1em;
+    transition: .5s;
+}
+
+.issue-card h1{
+    font-size: 1.2em;
+    padding-left: 0.5em;
+    margin:0 .5em .25em .5em;
+}
+
+.issue-card:hover{
+    margin-left: 1em;
+}

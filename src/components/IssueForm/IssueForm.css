@@ -1,0 +1,15 @@
+.issue-form {
+    display: flexbox;
+    margin: 0em 1em;
+}
+
+.form-input .MuiInputBase-formControl {
+    background-color: darkcyan;
+    border: none;
+    color:aliceblue;
+}
+
+.form-input label {
+    color: aliceblue;
+    font-weight: 600;
+}

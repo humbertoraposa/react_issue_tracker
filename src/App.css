@@ -1,0 +1,14 @@
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding-left: 1em;
+  display: flex;
+  width: 100%;
+  min-height: 4em;
+  font-size: large;
+  background-color: darkcyan;
+  color: aliceblue;
+}
